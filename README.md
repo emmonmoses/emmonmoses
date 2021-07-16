@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmonmoses. I'm a Web Developer* Entrepreneur* DevOps* Farmer* Mobile Developer* Adventurer.
+- 👋 Hi, I’m @emmonmoses. I'm a Software Developer* Entrepreneur* DevOps* Farmer* Mobile Developer* Adventurer.
 - 👀 I’m interested in DevOps, Web and Mobile Development.
 - 🌱 I’m currently learning Docker, Kubernetes, Flutter, Azure among others.
 - 💞️ I’m looking to collaborate on any web and or mobile development project that utilizes Angular framework and Flutter or Ionic framework. 
